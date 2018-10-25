@@ -1,4 +1,7 @@
 This is file2.txt -locally added line
 
+
 This is file2.txt - remote added line
 
+
+This is third line I added to Stash
